@@ -1,0 +1,6 @@
+{
+  "name": "WargaHub",
+  "description": "Aplikasi tata kelola warga mobile untuk pelaporan keluhan lingkungan, pembayaran iuran digital (QRIS/VA), transparansi kas RT, dan layanan warga.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
